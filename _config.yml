@@ -8,7 +8,7 @@ subtitle: 'Web Developer'
 description: '안녕하세요! 능동적인 태도를 가지고 항상 발전을 위해 노력하는 Web Developer 김영준입니다.|'
 keywords: node.js,elasticsearch,react.js
 author: youngjun kim
-language: ko
+language: en
 timezone: 'Asia/Seoul'
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
