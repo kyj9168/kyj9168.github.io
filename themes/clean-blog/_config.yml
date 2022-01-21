@@ -5,11 +5,11 @@ menu:
   Tags: /tags
   Categories: /categories
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/kyj9168
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Youngjun's Blog
 
 # URL of the Home page image
 index_cover: img/home-bg.jpg
