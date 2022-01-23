@@ -105,3 +105,10 @@ deploy:
     type: git
     repo: https://github.com/kyj9168/kyj9168.github.io.git
     branch: main
+
+# hexo-admin authentification
+admin:
+    username: kyj9168
+    password_hash: $2a$10$wLRdn1DGUhK5KWA5NXBRZugg7vuxoOUAWssdtw9AiV76njhpDW2p2
+    secret: '1158'
+    deployCommand: './hexo-publish.sh'
