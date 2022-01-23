@@ -1,15 +1,15 @@
 # Header
 menu:
-  # Home: /
-  # Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  # Github:
-  #   url: https://github.com/kyj9168
-  #   icon: github
+    Home: /
+    Archives: /archives
+    Tags: /tags
+    Categories: /categories
+    # Github:
+    #   url: https://github.com/kyj9168
+    #   icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Youngjun's Blog
+menu_title: Young jun's Blog
 
 # URL of the Home page image
 index_cover: img/home-bg.jpg
@@ -19,13 +19,13 @@ default_post_title: Untitled
 
 # Comments. Choose one by filling up the information
 comments:
-  # Disqus comments
-  disqus_shortname:
-  # Facebook comments
-  facebook:
-    appid:
-    comment_count: 5
-    comment_colorscheme: light
+    # Disqus comments
+    disqus_shortname:
+    # Facebook comments
+    facebook:
+        appid:
+        comment_count: 5
+        comment_colorscheme: light
 
 # Google Analytics Tracking ID
 google_analytics:
@@ -34,7 +34,7 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: img/favicon.ico
 
 # Social Accounts
 twitter_url:
