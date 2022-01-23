@@ -1,19 +1,8 @@
 ---
-title: clean-blog 테마를 설치해봤다
-date: 2022-01-22 01:14:25
-tags: ['hexo', 'clean-blog', 'theme'] #tags
-# cover: /img/contact-bg.jpg                 #post 커버 이미지
-subtitle: '처음으로 테마를 적용해보다.' #post 부제
+title: markDown 모음집
+date: 2022-01-23 12:43:43
+tags: ['markdown']
 categories: blog
----
-
-깔끔해서 좋다
-
-마크다운 언어로 해야된다
-
-아래 참고!!
-https://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/
-
 ---
 
 **Advertisement :)**
